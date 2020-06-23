@@ -2,7 +2,7 @@
 
 This tool is used to report issues and faults in a calibration system of a Scania Truck with all the necessary specifications regarding who makes the report and what is the status of the part which is damaged. Collecting the information of every vehicle part and the  fault data and retrieving them on uses is main aim of this project. Apart from storing vehicle records it keeps record of all the employees working and all the departments that are currently active or reactive.
 
-This project is built in VB.net with framework 4.6.1 and SQL-Server as database. Because the project uses "Visual Studio" so it is windows operating system dependent. Although database is used, but the images of vehicle are not stored in it, for not letting the database go overloaded and affecting the performance of the project.
+This project is built in VB.net with framework 4.7.2 and SQL-Server as database. Because the project uses "Visual Studio" so it is windows operating system dependent. Although database is used, but the images of vehicle are not stored in it, for not letting the database go overloaded and affecting the performance of the project.
 
 The structure of the project is as follows:
 
