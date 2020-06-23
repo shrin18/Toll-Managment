@@ -1,4 +1,4 @@
-# System SW Epic Creator
+# Agile kanban epic creator
 
 This tool is used to report issues and faults in a calibration system of a Scania Truck with all the necessary specifications regarding who makes the report and what is the status of the part which is damaged. Collecting the information of every vehicle part and the  fault data and retrieving them on uses is main aim of this project. Apart from storing vehicle records it keeps record of all the employees working and all the departments that are currently active or reactive.
 
